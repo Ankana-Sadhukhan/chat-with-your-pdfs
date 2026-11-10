@@ -1,0 +1,59 @@
+# ==========================================
+# RAG Application: Google Gemini + Groq + ChromaDB
+# Core packages and common LangChain integrations
+# ==========================================
+
+# LLM providers
+google-genai
+groq
+
+# LangChain orchestration and integrations
+langchain
+langchain-text-splitters
+langchain-google-genai
+langchain-groq
+langchain-chroma
+langchain-huggingface
+langchain-openai
+
+# Vector database
+chromadb
+
+# Embeddings / transformer-based models
+sentence-transformers
+transformers
+torch
+
+# Document loading and parsing
+arxiv>=2.1,<3
+pypdf
+python-docx
+unstructured
+
+# Tokenization and text processing
+tiktoken
+nltk
+
+# Data processing
+numpy
+pandas
+
+# Configuration and validation
+python-dotenv
+pydantic
+pydantic-settings
+
+# Optional API backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# HTTP requests and retries
+httpx
+tenacity
+
+# Optional web UI
+streamlit
+
+# Optional image support for document workflows
+pillow

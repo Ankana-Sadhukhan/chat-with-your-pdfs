@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# virtual environment
+.venv/
+venv/
+
+# vector database (generated data)
+chroma-db/
+
+# python junk
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
