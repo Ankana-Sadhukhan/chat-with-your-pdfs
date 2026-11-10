@@ -167,6 +167,3 @@ Open the local URL shown in the terminal (usually `http://localhost:8501`).
 If you found this project useful, consider giving it a ⭐
 
 ---
-Option C: record a short GIF, save it as demo.gif in the repo, and use:
-  ![Demo](demo.gif)
--->
