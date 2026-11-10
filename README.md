@@ -12,7 +12,6 @@
 ## 🎥 Live Demo
 
 <!-- Replace VIDEO_LINK and THUMBNAIL_LINK with your own. See the note at the bottom of this file. -->
-![Watch the demo](https://www.youtube.com/watch?v=GzG_3-H2Muc)
 
 **▶️ [Watch the full demo video](https://www.youtube.com/watch?v=GzG_3-H2Muc)**
 
